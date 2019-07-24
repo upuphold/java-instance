@@ -1,0 +1,8 @@
+#####编译java源文件a.java，生成字节码文件a.class
+```
+javac a.java
+```
+#####执行java文件
+```
+java a
+```
